@@ -1,6 +1,7 @@
+![Profile Picture](Jared_Boone_sm.jpeg)
+
 # Introduction
 Hi, my name is Jared and this is my GitHub homepage. I'm a software engineer from Rheinfelden, Switzerland.
-![Profile Picture](Jared_Boone.jpeg){:height="100px" width="100px"}
 
 # Interests & Hobbies
 * Spending Time with Family
